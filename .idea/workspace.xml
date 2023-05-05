@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b342bf-d3ea-44c7-b58f-eb7be9a0368c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/old/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Solver.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Solver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Solvercopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/old/Solvercopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fifteenpuzzle/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fifteenpuzzle/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol02LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol04LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol06LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol08LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol08TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol10LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol11LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol12LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol13LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol14LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol15LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol15TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol16LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol17LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol17TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol18LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol19LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol1LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol1TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol20LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol20TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol21LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol21TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol22LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol23LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol23TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol24LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol25LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol27LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol29TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol2LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol2TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol30LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol30TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol32LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol36LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol38LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol3TESTLC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sol40LC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solLC.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="2NZRjKWnEdcc4j1B1n2OI59X2DQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testcases" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/fifteenpuzzle" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fifteenpuzzle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/testcases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b342bf-d3ea-44c7-b58f-eb7be9a0368c" name="Default Changelist" comment="" />
+      <created>1679869751195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679869751195</updated>
+      <workItem from="1679869752748" duration="5380000" />
+      <workItem from="1679893195194" duration="2437000" />
+      <workItem from="1680021291550" duration="5472000" />
+      <workItem from="1680134023977" duration="19372000" />
+      <workItem from="1680193829173" duration="6599000" />
+      <workItem from="1680229464121" duration="3095000" />
+      <workItem from="1680564665000" duration="2315000" />
+      <workItem from="1680567200352" duration="15721000" />
+      <workItem from="1680716691461" duration="2036000" />
+      <workItem from="1680732047508" duration="6776000" />
+      <workItem from="1680738849087" duration="11325000" />
+      <workItem from="1680803117861" duration="8170000" />
+      <workItem from="1681233145164" duration="8044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
